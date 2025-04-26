@@ -1,0 +1,9 @@
+1. mkdir curso-git-embarcatech
+2. cd curso-git-embarcatech
+3. git init
+4. git config --global user.name "ManoelSerafim"
+5. git config --global user.email "manoeldserafim@gmail.com"
+6. git add info.txt
+7. git commit -m "Adicionei o arquivo com meu nome e matricula"
+8. git remote add origin https://github.com/ManoelSerafim/curso-git-embarcatech.git
+9. git push -u origin main
